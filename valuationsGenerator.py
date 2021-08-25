@@ -13,7 +13,6 @@ from bs4 import BeautifulSoup
 import base64
 
 ## ML and Viz
-import pyflux as pf
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.manifold import MDS
 import math
